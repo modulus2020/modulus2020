@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning to program with Python
 - 💞️ I’m looking to collaborate on developing some cool NFT community and geeks with my wealth of knowledge.
 
-- 📫 How to reach me Telegram @Modulus2020, Twitter @joshblaise 
+- 📫 How to reach me Telegram @yp_2020, Twitter @joshblaise 
 
 <!---
 modulus2020/modulus2020 is a geek lover
